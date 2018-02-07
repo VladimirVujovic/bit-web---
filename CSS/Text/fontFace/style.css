@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Brush";
+    src: url(./fonts/AlexBrush-Regular.ttf);
+}
+
+@font-face {
+    font-family: "other";
+    src: url("https://fonts.gstatic.com/s/rammettoone/v6/mh0uQ1tV8QgSx9v_KyEYPOgdm0LZdjqr5-oayXSOefg.woff2")
+}
+
+body {
+    font-family: Brush, Georgia;
+    font-size: 50px;
+}
+
+
+.one {
+    font-family: 'other';
+    text-decoration: blink dotted red;
+}
